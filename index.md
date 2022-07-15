@@ -1,6 +1,8 @@
 ## ANELE The House Madam
 
 We are here to make your life easier.
+ ![![![d6244bbb-e9b2-4f59-9047-f7147cf457ab](https://user-images.githubusercontent.com/105336304/179179460-d873ac72-dca9-4d54-a984-9593d33917ba.jpg)]
+](src)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
